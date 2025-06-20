@@ -33,4 +33,9 @@ Styling: CSS / Tailwind / Material-UI (choose yours)
     npm start
 # ⚠️ Disclaimer
 This project is developed for educational purposes only and is not affiliated with Amazon in any way.
+# DEMO 
+![ama](https://github.com/user-attachments/assets/45d8b1c8-ca95-4953-a1da-9cc1b26ee284)
 
+![ama 2](https://github.com/user-attachments/assets/8bd7595f-7f8b-46c2-852f-58f9ba591cb8)
+
+![Screenshot 2025-06-20 224601](https://github.com/user-attachments/assets/32cffe59-9b05-4861-ad1b-81483b314038)
